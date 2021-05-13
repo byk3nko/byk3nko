@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-telegram: @bykenko
+telegram: @bykenko<br/>
 discord: Kenko#8625
 </p>
 
