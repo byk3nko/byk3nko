@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Glua, php, etc**
 
-- 📫 How to reach me **kenkoed@gmail.com**
-
 - 📄 About games [https://steamcommunity.com/id/bykenko/](https://steamcommunity.com/id/bykenko/)
 
 - ⚡ Fun fact **Sometimes I can learn a lot in a day, but then forget about it.**
