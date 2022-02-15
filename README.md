@@ -4,20 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byk3nko&label=Profile%20views&color=0e75b6&style=flat" alt="byk3nko" /> </p>
 
-
-- 🔭 I’m currently working on [customcaptchagenerator](https://github.com/byk3nko/customcaptchagenerator)
-
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on [gmod-shadowraze-notification](https://github.com/byk3nko/gmod-shadowraze-notification)
-
-- 👨‍💻 All of my projects are available at github
-
-- 💬 Ask me about **Glua, php, etc**
-
 - 📄 About games [https://steamcommunity.com/id/bykenko/](https://steamcommunity.com/id/bykenko/)
-
-- ⚡ Fun fact **Sometimes I can learn a lot in a day, but then forget about it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
