@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 📄 About games [https://steamcommunity.com/id/bykenko/](https://steamcommunity.com/id/bykenko/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 telegram: @bykenko<br/>
